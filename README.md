@@ -37,3 +37,25 @@ Kullanıcı görev ekleyebilir, tamamlandı olarak işaretleyebilir, silebilir v
 ---
 
 ## 📂 Proje Yapısı
+
+├── index.html
+├── style.css
+├── odev2.js
+├── logo.png
+├── Image from iOS.jpg
+└── README.md
+
+# 📌 Kurulum ve Çalıştırma
+1. Repoyu klonla:
+   ```bash
+   git clone https://github.com/busraygul/To-Do-List.git
+
+2. Klasöre gir:
+
+  cd To-Do-List
+
+3. index.html dosyasını tarayıcıda aç 🚀
+
+👩‍💻 Geliştirici
+
+[GitHub Profilim](https://github.com/busraygul)
